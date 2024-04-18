@@ -1,2 +1,1 @@
-print("ET0735 - DevOps")
-git status
+print("ET0735 - DevOps for AIoT")
